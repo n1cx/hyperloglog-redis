@@ -19,4 +19,5 @@ pkg/*
 *.sublime-workspace
 rspec.failures
 
-
+.ruby-gemset
+.ruby-version
